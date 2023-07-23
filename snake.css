@@ -1,0 +1,15 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background : linear-gradient(135deg,#153677,#4e085f);
+    height: 620px;
+    color: aliceblue;
+    text-decoration: dashed;
+    }
+  h1{
+    font-style: bold;
+    }
+pre{
+   font-size: 50 px;
+   color: white;
+   }
